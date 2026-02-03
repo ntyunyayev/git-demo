@@ -1,3 +1,3 @@
 # git-demo
 
-This is a description of the project
+Here is a description of the project
